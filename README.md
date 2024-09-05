@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  Olá 👋, Sou o Tiago! Um estudante de engenharia da computação.
+  Olá 👋, Sou o Tiago! Um estudante de engenharia de Software.
 
   - 🌱 Atualmente estou no segundo semestre da faculdade, cada vez mais em busca de aperfeiçoar meus conhecimentos e frameworks.
 
