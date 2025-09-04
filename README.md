@@ -8,9 +8,10 @@
 <p>
   Olá 👋, Sou o Tiago! Um estudante de engenharia de Software.
 
-  - 🌱 Atualmente estou no segundo semestre da faculdade, cada vez mais em busca de aperfeiçoar meus conhecimentos e frameworks.
+  - 🌱 Atualmente estou no quarto semestre da faculdade, cada vez mais em busca de aperfeiçoar meus conhecimentos e frameworks.
 
-  - 🔭 Estou em busca da minha primeira oportunidade de trabalho. Meu objetivo é adquirir experiências e me tornar um profissional completo e bem preparado para enfrentar os desafios do mercado de trabalho.
+  - 🔭 Atualmente Trabalho na **Betha Sistemas**, o que tem me proporcionado aprendizado contínuo e uma visão mais ampla sobre o mercado de tecnologia.
+
 
      <summary>👨‍💻 Mais sobre mim:</summary>
 </p>
